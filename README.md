@@ -1,15 +1,13 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
-
-<br clear="both">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artemis34a/Artemis34a/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Artemis34a/Artemis34a/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Artemis34a/Artemis34a/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/Artemis34a/Artemis34a/-/raw/main/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/[USERNAME]/[USERNAME]/-/raw/main/output/pacman-contribution-graph-light.svg">
+  <img alt="pacman contribution graph" src="https://gitlab.com/Artemis34a/Artemis34a/-/raw/main/output/pacman-contribution-graph-light.svg">
 </picture>
 
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)
 ###
 
 <div align="center">
